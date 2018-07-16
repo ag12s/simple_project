@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+# NOTE: Git ignores pound signs
 __pycache__/
 *.py[cod]
 *$py.class
@@ -56,3 +57,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Always ignore data files
+# data directory 
+data/
